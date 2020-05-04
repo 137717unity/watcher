@@ -1,6 +1,6 @@
 # Atom Filesystem Watcher
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/atom/watcher.svg)](https://greenkeeper.io/)
+
 
 | Linux | Windows | MacOS |
 |:------|:-------:|------:|
